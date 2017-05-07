@@ -1,2 +1,2 @@
 # minimal-mistakes-navtest
-esting
+Testing
